@@ -1,0 +1,9 @@
+Esta es la salida esperada
+Lo unico diferente que deberian tener son los codigos de hashing
+
+[www.undav.edu.ar] -> [18.216.74.20], hash(dominio) -> [8577], hash(ip) -> [4363]
+[www.git.kernel.org] -> [147.75.58.133], hash(dominio) -> [7584], hash(ip) -> [1481]
+[www.google.com] -> [216.58.222.36], hash(dominio) -> [5824], hash(ip) -> [2167]
+[www.twitter.com] -> [104.244.42.129], hash(dominio) -> [7369], hash(ip) -> [6675]
+[www.twitter.com] -> [104.244.42.129], hash(dominio) -> [7369], hash(ip) -> [6675]
+[www.ayp1.edu.ar] -> [NULL], hash(dominio) -> [5408]
