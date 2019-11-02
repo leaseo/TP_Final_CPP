@@ -7,7 +7,7 @@
 using UndavItem::Item;
 using UndavKey::Key;
 
-namespace UndavDictionary{
+namespace UndavDictionary {
 	struct Dictionary;
 	Dictionary* Create();
 	void Put(Dictionary* dictionary, Key* key, Item* item);

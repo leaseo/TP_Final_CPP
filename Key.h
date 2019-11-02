@@ -4,7 +4,7 @@
 #include <string>
 using std::string;
 
-namespace UndavKey{
+namespace UndavKey {
 	struct Key;
 
 	/*
@@ -33,7 +33,7 @@ namespace UndavKey{
 
 	/*
 	 * Precondicion: @keyA y @keyB son instancias validas
-	 * Postcondioin: Devuleve true si KeyA y KeyB son iguales. Caso contrario devuelve false
+	 * Postcondioin: Devuleve true si KeyA es menos a KeyB. Caso contrario devuelve false
 	 */
 	bool IsLess(const Key* keyA, const Key* keyB);
 

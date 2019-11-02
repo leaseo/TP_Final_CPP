@@ -4,7 +4,7 @@
 #include <string>
 using std::string;
 
-namespace UndavHashing{
+namespace UndavHashing {
 	/*
 	 * Precondicion: -
 	 * Postcondicion: Devuelve el valor (hash code) de @hashMe

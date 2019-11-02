@@ -4,7 +4,7 @@
 #include <string>
 using std::string;
 
-namespace UndavItem{
+namespace UndavItem {
 	struct Item;
 	/*
 	 * Precondicion: -
